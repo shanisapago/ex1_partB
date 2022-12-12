@@ -4,7 +4,7 @@ class minkowskiDistance:Distance{
     private:
     int p;
     public:
-    void minkowskiDistance(vector<double> v1,vector<doube> v2,int _p=2)
+    minkowskiDistance(vector<double> v1,vector<doube> v2,int _p=2)
 
     {
         vec1=v1;
