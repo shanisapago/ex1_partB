@@ -4,7 +4,7 @@
 The aim of the project is to classify a data of vector with a file of classified vectors by knn algorithm.
 
 ## Compilation and run
-The compiler: g++
+The compiler: g++</br>
 version: 11
 
 ## Instruction
