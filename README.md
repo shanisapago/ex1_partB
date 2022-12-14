@@ -8,12 +8,12 @@ The compiler: g++</br>
 version: 11
 
 ## Instruction
-Open the Terminal and write: git clone 
-Then write make and the the format ./a.out k file_name disttance
-such that:
+Open the Terminal and write: git clone https://github.com/shanisapago/ex1_partB </br>
+Then write make and the the format ./a.out k file_name disttance </br>
+such that: </br>
 ### k
-k is a int number.
-if the user input double number as k, the k will be rounded and the program will run
+k is a int number. </br>
+if the user input double number as k, the k will be rounded and the program will run </br>
 ### file_name
 
 
