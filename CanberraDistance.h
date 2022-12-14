@@ -19,4 +19,4 @@ class CanberraDistance:public Distance{
 
 
 };
-#endiff
+#endif
