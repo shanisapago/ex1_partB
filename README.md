@@ -15,5 +15,6 @@ such that: </br>
 k is a int number. </br>
 if the user input double number as k, the k will be rounded and the program will run </br>
 ### file_name
+the file_name may be the name of the file the user want to open (it will work just if the file saves where the program saves) ot the full path file </br>
 
 
