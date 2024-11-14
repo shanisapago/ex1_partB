@@ -1,7 +1,4 @@
-# ex1_partB
-# important message:
-I did this work alone because my partner is not take part of this course anymore. I got a confirmation from Hemi and the team to do specific this work alone and it wouldn't affect the grade of the work. for last work I will find a new partner.
-
+# knn algorithm
 ## Description
 The aim of the project is to classify a data of vector with a file of classified vectors by knn algorithm.
 
