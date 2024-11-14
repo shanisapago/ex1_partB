@@ -7,7 +7,7 @@ The compiler: g++</br>
 version: 11
 
 ## Instruction
-Open the Terminal and write: git clone https://github.com/shanisapago/ex1_partB </br>
+Open the Terminal and write: git clone https://github.com/shanisapago/knn_algorithm.git </br>
 Then write make and the the format ./a.out k file_name disttance </br>
 such that: </br>
 #### k
